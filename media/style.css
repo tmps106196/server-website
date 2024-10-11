@@ -240,7 +240,7 @@ body {
     padding-left: 2rem;
     padding-right: 2rem;
     font-size: 2rem;
-    background-color: var(--accent2_transp);
+    background-color: #1E90FF;
     border: 0px;
     border-radius: var(--roundness);
     color: white;
@@ -746,4 +746,7 @@ body {
 }
 img {
     border-radius: 0 30px 0 30px;
+}
+.status {
+    weight: 500px;
 }
