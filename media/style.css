@@ -199,7 +199,7 @@ body {
     align-items: center;
     align-content: center;
     justify-content: center;
-    background: rgba(0, 0, 0, .5) url('bp.png');
+    background: rgba(0, 0, 0, .5) url('media/bp.png');
     background-blend-mode: darken;
     background-repeat: no-repeat;
     background-position: 50% 50%;
