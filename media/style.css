@@ -84,9 +84,10 @@ body {
 }
 
 .desktop_navbar_logo_img {
-    width: 5rem;
-    padding-left: 2rem;
+    width: 60px;
+    padding-left: 2px;
     padding-right: 1rem;
+      border-radius: 10px 10px 10px 10px;
 }
 
 .desktop_navbar_link {
